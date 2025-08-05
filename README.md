@@ -117,6 +117,8 @@ npx nodemon server.js
 ## 📸 Screenshots
 
 > <img width="925" height="400" alt="image" src="https://github.com/user-attachments/assets/15476bda-ccb7-4e2d-bd3e-2c8a624aa894" />
+<img width="689" height="258" alt="image" src="https://github.com/user-attachments/assets/8c9a8af9-93df-43b0-95ae-cb6c5d2690f2" />
+
 
 
 ---
