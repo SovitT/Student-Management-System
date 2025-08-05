@@ -116,7 +116,8 @@ npx nodemon server.js
 
 ## 📸 Screenshots
 
-> Add your screenshots here if you'd like (UI + Postman).
+> <img width="925" height="400" alt="image" src="https://github.com/user-attachments/assets/15476bda-ccb7-4e2d-bd3e-2c8a624aa894" />
+
 
 ---
 
